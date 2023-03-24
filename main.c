@@ -68,21 +68,21 @@ int main(){
 
     float avglen = avg_len(fstr, wcount);
 
-    printf("Avg word length: %f\n", avglen);
+    printf("Avg word length: %f\n----------------------------------------\n", avglen);
 
     // SENTENCE COUNT
     // Counts number of sentences in file
 
     int scount = sent_count(fstr);
 
-    printf("Sentence count: %d\n", scount);
+    printf("Sentence count: %d\n----------------------------------------\n", scount);
 
     // AVERAGE SENTENCE LENGTH
     // Counts avg number of words per sentence
 
     float avgsentlen = avg_sent_len(fstr, scount);
 
-    printf("Avg sentence length: %f\n", avgsentlen);
+    printf("Avg sentence length: %f\n----------------------------------------\n", avgsentlen);
 
     free(fstr);
 
