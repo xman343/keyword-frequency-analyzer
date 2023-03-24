@@ -1,0 +1,494 @@
+// Federalist 1
+Federalist1.txt
+
+File contents:
+
+Word count: 1637
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            8.552 / 1000          14
+from            6.720 / 1000          11
+to            45.205 / 1000          74
+a            311.546 / 1000          510
+the            95.296 / 1000          156
+an            63.531 / 1000          104
+and            25.657 / 1000          42
+I            37.874 / 1000          62
+one            2.443 / 1000          4
+for            14.050 / 1000          23
+in            64.142 / 1000          105
+with            3.054 / 1000          5
+which            10.385 / 1000          17
+that            15.883 / 1000          26
+it            44.594 / 1000          73
+but            0.000 / 1000          0
+not            11.607 / 1000          19
+on            76.970 / 1000          126
+as            20.770 / 1000          34
+at            52.535 / 1000          86
+this            5.498 / 1000          9
+Avg word length: 4.753818
+Sentence count: 52
+Avg sentence length: 183.730774
+
+// Federalist 2
+Federalist2.txt
+
+File contents:
+
+Word count: 1693
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            5.907 / 1000          10
+from            2.953 / 1000          5
+to            37.803 / 1000          64
+a            343.178 / 1000          581
+the            101.004 / 1000          171
+an            78.559 / 1000          133
+and            51.979 / 1000          88
+I            9.451 / 1000          16
+one            7.088 / 1000          12
+for            22.445 / 1000          38
+in            86.237 / 1000          146
+with            8.269 / 1000          14
+which            6.497 / 1000          11
+that            23.036 / 1000          39
+it            53.751 / 1000          91
+but            2.953 / 1000          5
+not            6.497 / 1000          11
+on            88.600 / 1000          150
+as            28.352 / 1000          48
+at            75.015 / 1000          127
+this            6.497 / 1000          11
+Avg word length: 4.909037
+Sentence count: 46
+Avg sentence length: 220.782608
+
+// Federalist 3
+Federalist3.txt
+
+File contents:
+
+Word count: 1472
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            12.228 / 1000          18
+from            10.190 / 1000          15
+to            42.799 / 1000          63
+a            363.451 / 1000          535
+the            91.033 / 1000          134
+an            78.804 / 1000          116
+and            42.799 / 1000          63
+I            18.342 / 1000          27
+one            8.152 / 1000          12
+for            16.304 / 1000          24
+in            69.973 / 1000          103
+with            6.793 / 1000          10
+which            7.473 / 1000          11
+that            12.908 / 1000          19
+it            45.516 / 1000          67
+but            3.397 / 1000          5
+not            9.511 / 1000          14
+on            84.239 / 1000          124
+as            27.853 / 1000          41
+at            82.880 / 1000          122
+this            4.076 / 1000          6
+Avg word length: 4.905571
+Sentence count: 41
+Avg sentence length: 215.707321
+
+// Federalist 4
+Federalist4.txt
+
+File contents:
+
+Word count: 1667
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            9.598 / 1000          16
+from            4.199 / 1000          7
+to            40.192 / 1000          67
+a            364.127 / 1000          607
+the            101.380 / 1000          169
+an            98.980 / 1000          165
+and            60.588 / 1000          101
+I            13.797 / 1000          23
+one            8.398 / 1000          14
+for            15.597 / 1000          26
+in            79.184 / 1000          132
+with            7.798 / 1000          13
+which            5.999 / 1000          10
+that            9.598 / 1000          16
+it            57.588 / 1000          96
+but            2.999 / 1000          5
+not            11.998 / 1000          20
+on            69.586 / 1000          116
+as            23.995 / 1000          40
+at            58.188 / 1000          97
+this            0.600 / 1000          1
+Avg word length: 4.785843
+Sentence count: 44
+Avg sentence length: 222.931824
+
+// Federalist 41
+Federalist41.txt
+
+File contents:
+
+Word count: 3583
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            9.210 / 1000          33
+from            6.140 / 1000          22
+to            39.073 / 1000          140
+a            351.102 / 1000          1258
+the            110.801 / 1000          397
+an            68.658 / 1000          246
+and            29.026 / 1000          104
+I            12.280 / 1000          44
+one            3.907 / 1000          14
+for            19.537 / 1000          70
+in            75.635 / 1000          271
+with            5.582 / 1000          20
+which            10.047 / 1000          36
+that            11.443 / 1000          41
+it            55.540 / 1000          199
+but            1.954 / 1000          7
+not            8.373 / 1000          30
+on            85.961 / 1000          308
+as            23.165 / 1000          83
+at            55.540 / 1000          199
+this            5.861 / 1000          21
+Avg word length: 4.808540
+Sentence count: 136
+Avg sentence length: 154.860291
+
+// Federalist 42
+Federalist42.txt
+
+File contents:
+
+Word count: 2814
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            11.016 / 1000          31
+from            3.554 / 1000          10
+to            39.446 / 1000          111
+a            343.639 / 1000          967
+the            110.519 / 1000          311
+an            67.164 / 1000          189
+and            35.537 / 1000          100
+I            11.372 / 1000          32
+one            4.264 / 1000          12
+for            20.967 / 1000          59
+in            82.445 / 1000          232
+with            11.727 / 1000          33
+which            9.595 / 1000          27
+that            11.372 / 1000          32
+it            53.660 / 1000          151
+but            2.132 / 1000          6
+not            10.306 / 1000          29
+on            90.263 / 1000          254
+as            25.231 / 1000          71
+at            78.891 / 1000          222
+this            5.686 / 1000          16
+Avg word length: 4.947051
+Sentence count: 77
+Avg sentence length: 220.506500
+
+// Federalist 43
+Federalist43.txt
+
+File contents:
+
+Word count: 3473
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            13.821 / 1000          48
+from            1.728 / 1000          6
+to            36.856 / 1000          128
+a            343.219 / 1000          1192
+the            115.750 / 1000          402
+an            56.147 / 1000          195
+and            23.899 / 1000          83
+I            8.926 / 1000          31
+one            4.895 / 1000          17
+for            20.731 / 1000          72
+in            71.408 / 1000          248
+with            8.062 / 1000          28
+which            9.790 / 1000          34
+that            14.109 / 1000          49
+it            69.392 / 1000          241
+but            2.016 / 1000          7
+not            9.502 / 1000          33
+on            96.170 / 1000          334
+as            27.930 / 1000          97
+at            73.424 / 1000          255
+this            5.183 / 1000          18
+Avg word length: 4.884250
+Sentence count: 122
+Avg sentence length: 169.950821
+
+// Federalist 44
+Federalist44.txt
+
+File contents:
+
+Word count: 2934
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            9.884 / 1000          29
+from            3.067 / 1000          9
+to            34.083 / 1000          100
+a            339.468 / 1000          996
+the            127.130 / 1000          373
+an            61.009 / 1000          179
+and            31.016 / 1000          91
+I            8.180 / 1000          24
+one            3.067 / 1000          9
+for            15.678 / 1000          46
+in            81.118 / 1000          238
+with            8.862 / 1000          26
+which            10.225 / 1000          30
+that            9.543 / 1000          28
+it            53.851 / 1000          158
+but            2.386 / 1000          7
+not            7.498 / 1000          22
+on            97.819 / 1000          287
+as            25.222 / 1000          74
+at            68.848 / 1000          202
+this            7.839 / 1000          23
+Avg word length: 4.888889
+Sentence count: 78
+Avg sentence length: 224.717941
+
+// Federalist 59
+Federalist59.txt
+
+File contents:
+
+Word count: 1946
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            8.736 / 1000          17
+from            6.166 / 1000          12
+to            44.707 / 1000          87
+a            349.949 / 1000          681
+the            109.455 / 1000          213
+an            61.151 / 1000          119
+and            20.555 / 1000          40
+I            12.333 / 1000          24
+one            3.083 / 1000          6
+for            12.333 / 1000          24
+in            82.734 / 1000          161
+with            6.680 / 1000          13
+which            9.250 / 1000          18
+that            14.902 / 1000          29
+it            53.957 / 1000          105
+but            2.569 / 1000          5
+not            7.708 / 1000          15
+on            82.220 / 1000          160
+as            21.583 / 1000          42
+at            89.414 / 1000          174
+this            7.708 / 1000          15
+Avg word length: 4.749743
+Sentence count: 52
+Avg sentence length: 218.307693
+
+// Federalist 60
+Federalist60.txt
+
+File contents:
+
+Word count: 2287
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            9.182 / 1000          21
+from            5.247 / 1000          12
+to            46.349 / 1000          106
+a            321.819 / 1000          736
+the            124.617 / 1000          285
+an            54.657 / 1000          125
+and            19.676 / 1000          45
+I            10.494 / 1000          24
+one            4.373 / 1000          10
+for            9.620 / 1000          22
+in            80.017 / 1000          183
+with            4.373 / 1000          10
+which            6.996 / 1000          16
+that            20.114 / 1000          46
+it            61.653 / 1000          141
+but            1.312 / 1000          3
+not            7.433 / 1000          17
+on            79.143 / 1000          181
+as            24.049 / 1000          55
+at            81.329 / 1000          186
+this            6.996 / 1000          16
+Avg word length: 4.763883
+Sentence count: 68
+Avg sentence length: 196.426468
+
+// Federalist 61
+Federalist61.txt
+
+File contents:
+
+Word count: 1556
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            3.213 / 1000          5
+from            5.141 / 1000          8
+to            47.558 / 1000          74
+a            338.689 / 1000          527
+the            116.967 / 1000          182
+an            57.198 / 1000          89
+and            17.352 / 1000          27
+I            12.211 / 1000          19
+one            3.213 / 1000          5
+for            17.352 / 1000          27
+in            77.121 / 1000          120
+with            4.499 / 1000          7
+which            7.712 / 1000          12
+that            20.566 / 1000          32
+it            53.342 / 1000          83
+but            0.000 / 1000          0
+not            6.427 / 1000          10
+on            93.830 / 1000          146
+as            24.422 / 1000          38
+at            79.049 / 1000          123
+this            8.355 / 1000          13
+Avg word length: 4.692802
+Sentence count: 40
+Avg sentence length: 224.574997
+
+// Federalist 63
+Federalist63.txt
+
+File contents:
+
+Word count: 3066
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            15.329 / 1000          47
+from            4.892 / 1000          15
+to            33.268 / 1000          102
+a            354.860 / 1000          1088
+the            108.937 / 1000          334
+an            70.776 / 1000          217
+and            24.462 / 1000          75
+I            16.634 / 1000          51
+one            3.914 / 1000          12
+for            17.939 / 1000          55
+in            72.407 / 1000          222
+with            7.175 / 1000          22
+which            11.742 / 1000          36
+that            16.308 / 1000          50
+it            52.511 / 1000          161
+but            3.262 / 1000          10
+not            10.437 / 1000          32
+on            68.167 / 1000          209
+as            28.050 / 1000          86
+at            66.862 / 1000          205
+this            5.219 / 1000          16
+Avg word length: 4.884214
+Sentence count: 88
+Avg sentence length: 208.306824
+
+// Federalist 64
+Federalist64.txt
+
+File contents:
+
+Word count: 2337
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            11.981 / 1000          28
+from            4.707 / 1000          11
+to            42.790 / 1000          100
+a            352.161 / 1000          823
+the            108.686 / 1000          254
+an            70.603 / 1000          165
+and            44.501 / 1000          104
+I            6.846 / 1000          16
+one            3.423 / 1000          8
+for            17.972 / 1000          42
+in            70.603 / 1000          165
+with            5.563 / 1000          13
+which            5.991 / 1000          14
+that            19.683 / 1000          46
+it            36.799 / 1000          86
+but            4.279 / 1000          10
+not            8.986 / 1000          21
+on            76.594 / 1000          179
+as            29.953 / 1000          70
+at            80.445 / 1000          188
+this            3.851 / 1000          9
+Avg word length: 4.724861
+Sentence count: 59
+Avg sentence length: 230.508469
+
+// Federalist 65
+Federalist65.txt
+
+File contents:
+
+Word count: 2048
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            7.812 / 1000          16
+from            5.859 / 1000          12
+to            44.922 / 1000          92
+a            288.574 / 1000          591
+the            120.117 / 1000          246
+an            52.734 / 1000          108
+and            20.996 / 1000          43
+I            16.113 / 1000          33
+one            4.395 / 1000          9
+for            13.672 / 1000          28
+in            78.125 / 1000          160
+with            5.859 / 1000          12
+which            11.719 / 1000          24
+that            11.230 / 1000          23
+it            49.805 / 1000          102
+but            0.977 / 1000          2
+not            10.254 / 1000          21
+on            84.961 / 1000          174
+as            22.461 / 1000          46
+at            51.270 / 1000          105
+this            7.324 / 1000          15
+Avg word length: 4.748047
+Sentence count: 67
+Avg sentence length: 178.119400
+
+// Federalist 67
+Federalist67.txt
+
+File contents:
+
+Word count: 1687
+Keyword        Frequency        Occurrences in Text
+_______        _________        ___________________
+by            5.928 / 1000          10
+from            2.964 / 1000          5
+to            56.906 / 1000          96
+a            336.692 / 1000          568
+the            112.033 / 1000          189
+an            62.241 / 1000          105
+and            30.231 / 1000          51
+I            25.489 / 1000          43
+one            4.149 / 1000          7
+for            8.892 / 1000          15
+in            72.318 / 1000          122
+with            8.892 / 1000          15
+which            14.819 / 1000          25
+that            9.484 / 1000          16
+it            52.164 / 1000          88
+but            2.964 / 1000          5
+not            9.484 / 1000          16
+on            73.503 / 1000          124
+as            26.082 / 1000          44
+at            70.539 / 1000          119
+this            5.928 / 1000          10
+Avg word length: 4.864849
+Sentence count: 48
+Avg sentence length: 209.062500
