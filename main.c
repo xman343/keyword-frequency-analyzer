@@ -40,7 +40,7 @@ int main(){
 
     int wcount = word_count(fstr);
 
-    printf("\nWord count: %d\n", wcount);
+    printf("\n----------------------------------------\nWord count: %d\n----------------------------------------\n", wcount);
 
     // KEY COUNT
     // Computes number of occurrences and frequency per 1000 words of each keyword in the text document
